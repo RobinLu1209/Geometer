@@ -1,0 +1,8 @@
+data:
+  name: amazon_computers
+  n_base: 5
+  n_novel_list: [1,1,1,1,1]
+
+model:
+  in_feature: 767
+  hidden_feature: 512

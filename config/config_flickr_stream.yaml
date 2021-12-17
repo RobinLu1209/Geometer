@@ -1,0 +1,8 @@
+data:
+  name: flickr
+  n_base: 4
+  n_novel_list: [1, 1, 1, 1, 1]
+
+model:
+  in_feature: 12047
+  hidden_feature: 512

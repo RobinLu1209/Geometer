@@ -1,0 +1,8 @@
+data:
+  name: cora
+  n_base: 20
+  n_novel_list: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+
+model:
+  in_feature: 8710
+  hidden_feature: 512
