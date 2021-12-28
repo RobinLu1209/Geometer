@@ -1,4 +1,4 @@
-# GPR
+# GEOMETER
 Graph Few-Shot Class-Incremental Learning via Prototype Representation
 
 ![Graph Few-Shot Class-Incremental Learning via Prototype Representation](system_model.png "Model Architecture")
