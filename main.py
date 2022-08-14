@@ -38,6 +38,7 @@ parser.add_argument('--k_spt_max', type=int, default=20)
 parser.add_argument('--tf', type=bool, default=True)
 parser.add_argument('--loss', type=int, default=[1,1,1,1])
 parser.add_argument('--start', type=int, default=0)
+parser.add_argument('--method', type=str, default='geometer')
 
 args = parser.parse_args()
 str_s = args.config_filename.find("_") + 1
